@@ -1,4 +1,4 @@
-package http_test
+package chihttp_test
 
 import (
 	"bytes"

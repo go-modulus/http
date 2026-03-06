@@ -1,4 +1,4 @@
-package http
+package chihttp
 
 import (
 	"net/http"
